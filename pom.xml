@@ -173,8 +173,8 @@
                             <url>https://www.czarnecki.dk/manager/text</url>  
                             <server>TomcatServer</server>
                             <path>/CA1</path>
-                            <username>patryk</username>
-                            <password>9sB4tdg3!</password>
+                            <username>travis</username>
+                            <password>autobot3000</password>
                             <update>true</update>
                         </configuration>  
                     </plugin>
